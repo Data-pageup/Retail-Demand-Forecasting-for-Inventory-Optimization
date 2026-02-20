@@ -19,11 +19,13 @@
 - JSONL format
 
 ## 4. Chat Dataset Format
-- Converted instruction dataset into chat format
+-
+-  Converted instruction dataset into chat format
 
 - ## with this i am trying to build SLM - small language model 
 
  
+
 
 
 
